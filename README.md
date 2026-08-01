@@ -1,13 +1,5 @@
 # FF-headshot-guide-
 HUD-layouts-character-combos-allguides
-p {
-  font-size: 25px !important;
-}
-
-h2 {
-  font-size: 35px !important;
-}
-
-h3 {
-  font-size: 28px !important;
+p, h1, h2, h3, h4, h5, h6 {
+  font-size: 50px !important;
 }
